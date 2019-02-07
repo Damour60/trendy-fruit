@@ -19,4 +19,29 @@ html {
 
 body {
   margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+.water {
+  background-color: #e97065;
+}
+
+.pink {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.star {
+  background-color: #fbd25e;
+}
+
+.yellow {
+  font-family: "Gravitas One", sans-serif;
+}
+
+.pers {
+  background-color: #e86033;
+}
+
+.orange {
+  font-family: "Comfortaa", sans-serif;
 }
